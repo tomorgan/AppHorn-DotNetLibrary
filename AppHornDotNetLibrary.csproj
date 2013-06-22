@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppHornMessenger.cs" />
+    <Compile Include="AsyncResultNoResult.cs" />
     <Compile Include="MessageRequest.cs" />
     <Compile Include="MessageResponse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
